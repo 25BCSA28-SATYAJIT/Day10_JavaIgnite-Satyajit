@@ -51,11 +51,12 @@ catch(Exception e) {
 System.out.println("End");
 
 Predict the output - 
-
+Error handled
+hello
 What prints first?
-
+Error handled
 Does program stop?
-
+no...it continues
 
 
 
